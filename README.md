@@ -1,5 +1,5 @@
 # Selenium Scraper - 360blue
-
+<a href="https://codeclimate.com/github/Firiyuu/selenium-360blue/maintainability"><img src="https://api.codeclimate.com/v1/badges/cdacc7260bb66dc379b0/maintainability" /></a>
 Order made script - Selenium + bs4 scraper for 460 blue.
 
 ## Installation
